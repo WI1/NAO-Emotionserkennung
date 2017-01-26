@@ -15,7 +15,7 @@ The following photo shows you an example of the implementation of the research i
 
 
 ## License 
-Copyright Emotions Recognition Mohamad Basim Alabd Chair of Innovation and Value Creation Friedrich-Alexander-Erlangen-Nürnberg University
+Copyright 2017 Mohamad Basim Alabd, Chair of Innovation and Value Creation, Friedrich-Alexander-Universität Erlangen-Nürnberg 
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
